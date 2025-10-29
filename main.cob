@@ -1,5 +1,5 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. MainProgram.
+       PROGRAM-ID. MAIN.
 
        DATA DIVISION.
        WORKING-STORAGE SECTION.
